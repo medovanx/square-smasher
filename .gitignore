@@ -1,0 +1,9 @@
+# Ignore build output
+x64/
+
+# Ignore NuGet packages
+packages/
+
+# Ignore Visual Studio settings
+.vs/
+.vscode/
