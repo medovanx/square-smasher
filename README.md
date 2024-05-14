@@ -45,8 +45,7 @@ Finally Build and run the project.
 - After winning, press 'Q' to restart the game.
 
 ## Screenshots
-
 <p align="center">
-  <img src="https://github.com/medovanx/square-smasher/assets/29468096/e5af6dc9-86ea-4360-b3e1-0a7ec65ddffc" width="49%">
-  <img src="https://github.com/medovanx/square-smasher/assets/29468096/d07b3da0-760f-461f-9b09-4aaf9599e2a8" width="49%">
+  <img src="https://github.com/medovanx/square-smasher/assets/29468096/37c8866d-65b2-4390-a76b-37ee7f58c1c5" width="49%">
+  <img src="https://github.com/medovanx/square-smasher/assets/29468096/2948be1c-ce33-40fb-948a-0d91592b1227" width="49%">
 </p>
