@@ -1,5 +1,6 @@
 # Ignore build output
 x64/
+Square Smasher/
 
 # Ignore NuGet packages
 packages/
