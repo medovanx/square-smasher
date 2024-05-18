@@ -1,6 +1,10 @@
+<div align="center">
+<img src="https://github.com/medovanx/square-smasher/assets/29468096/d82a20d8-621c-41e3-9e3e-08421ee07d09" height="200px">
+
 # Square Smasher
 
 Square Smasher is a simple game implemented using OpenGL and GLUT. The goal of the game is to destroy all the green squares by shooting bullets from a spaceship before time runs out.
+</div>
 
 ## Features
 

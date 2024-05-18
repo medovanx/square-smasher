@@ -8,3 +8,7 @@ packages/
 # Ignore Visual Studio settings
 .vs/
 .vscode/
+
+# Other
+desktop.ini
+folderico-p*.ico
